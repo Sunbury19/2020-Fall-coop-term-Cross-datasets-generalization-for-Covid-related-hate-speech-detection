@@ -1,5 +1,5 @@
-# 2020-Fall-coop-term-Cross-datasets-generalization-for-Covid-related-hate-speech-detection
-### 2020 fall coop term files
+# Cross-datasets-generalization-for-Covid-related-hate-speech-detection
+
 #### in this project we aimed to see whether can we use the data sets that have already been labelled or annotated to train a model, then test on a small amount number of covid related hate speech. in this experiment we did several cross data sets generalization tests using different data sets and models.
 ### This notebook gives an introduction to working with the various data sets in Wikipedia Talk and data from other platforms. The release includes:
 1. five different datasets used in this experiment: AC(attack comment), Toxicity, Gab and EA(easet asians prejudice) as training datasets. one dataset called 
